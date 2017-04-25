@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [mongoose-currency (v0.2.0)](https://github.com/catalystmediastudios/mongoose-currency)  [![npm package](https://img.shields.io/npm/v/npmtest-mongoose-currency.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongoose-currency) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongoose-currency.svg)](https://travis-ci.org/npmtest/node-npmtest-mongoose-currency)",
+    "description": "#### basic test coverage for  [mongoose-currency (v0.2.0)](https://github.com/catalystmediastudios/mongoose-currency)  [![npm package](https://img.shields.io/npm/v/npmtest-mongoose-currency.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongoose-currency) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongoose-currency.svg)](https://travis-ci.org/npmtest/node-npmtest-mongoose-currency)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "mongoose-currency": "*",
